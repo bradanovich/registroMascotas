@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="XQWy32PSvNX_0K5BZbcy">
-    <mxGraphModel dx="3792" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="500" width="930" x="350" y="101" as="geometry" />
+          <mxGeometry height="500" width="930" x="350" y="103" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" value="&lt;b&gt;Usuarios y Autenticación MS&lt;/b&gt;&lt;br/&gt;Registro, login y perfil" vertex="1">
           <mxGeometry height="45" width="360" x="424" y="164.5" as="geometry" />
@@ -131,22 +131,22 @@
           <mxGeometry height="110" width="145" x="1080" y="312.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="550" width="400" x="1320" y="90.5" as="geometry" />
+          <mxGeometry height="587.5" width="400" x="1320" y="80" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Service Registry&lt;/b&gt;&lt;br/&gt;Netflix Eureka&lt;br/&gt;Descubrimiento de servicios" vertex="1">
-          <mxGeometry height="85" width="290" x="1370" y="120.5" as="geometry" />
+          <mxGeometry height="85" width="290" x="1370" y="147.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Circuit Breaker&lt;/b&gt;&lt;br/&gt;Resilience4j&lt;br/&gt;Evita fallas en cascada" vertex="1">
-          <mxGeometry height="85" width="290" x="1370" y="230.5" as="geometry" />
+          <mxGeometry height="85" width="290" x="1370" y="257.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Monitoring / Logs&lt;/b&gt;&lt;br/&gt;Spring Boot Actuator&lt;br/&gt;Health, métricas y logs" vertex="1">
-          <mxGeometry height="85" width="290" x="1370" y="340.5" as="geometry" />
+          <mxGeometry height="85" width="290" x="1370" y="367.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Docker&lt;/b&gt;&lt;br/&gt;Microservicios contenerizados&lt;br/&gt;Despliegue independiente" vertex="1">
-          <mxGeometry height="75" width="290" x="1370" y="450.5" as="geometry" />
+          <mxGeometry height="75" width="290" x="1370" y="477.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Servicio Push Externo&lt;/b&gt;&lt;br/&gt;Firebase Cloud Messaging" vertex="1">
-          <mxGeometry height="60" width="290" x="1370" y="550.5" as="geometry" />
+          <mxGeometry height="60" width="290" x="1370" y="577.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -239,6 +239,21 @@
             <mxPoint x="590" y="511" as="sourcePoint" />
             <mxPoint x="640" y="461" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-A_JFIx98xw-omESkj8r-44" edge="1" parent="1" source="-A_JFIx98xw-omESkj8r-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" target="-A_JFIx98xw-omESkj8r-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="378.25" />
+              <mxPoint x="820" y="400" />
+              <mxPoint x="1030" y="400" />
+              <mxPoint x="1030" y="374.32" />
+            </Array>
+            <mxPoint x="990" y="430" as="sourcePoint" />
+            <mxPoint x="1040" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-A_JFIx98xw-omESkj8r-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="3. INFRAESTRUCTURA /&amp;nbsp;&lt;div&gt;INTEGRACIONES&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="1400" y="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
