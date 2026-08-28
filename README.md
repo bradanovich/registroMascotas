@@ -1,0 +1,2 @@
+# registroMascotas
+Diagrama de arquitectura
