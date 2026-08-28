@@ -131,7 +131,7 @@
           <mxGeometry height="110" width="145" x="1080" y="312.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="587.5" width="400" x="1320" y="80" as="geometry" />
+          <mxGeometry height="530" width="400" x="1320" y="80" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Service Registry&lt;/b&gt;&lt;br/&gt;Netflix Eureka&lt;br/&gt;Descubrimiento de servicios" vertex="1">
           <mxGeometry height="85" width="290" x="1370" y="147.5" as="geometry" />
@@ -144,9 +144,6 @@
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Docker&lt;/b&gt;&lt;br/&gt;Microservicios contenerizados&lt;br/&gt;Despliegue independiente" vertex="1">
           <mxGeometry height="75" width="290" x="1370" y="477.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-A_JFIx98xw-omESkj8r-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Servicio Push Externo&lt;/b&gt;&lt;br/&gt;Firebase Cloud Messaging" vertex="1">
-          <mxGeometry height="60" width="290" x="1370" y="577.5" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" value="">
           <mxGeometry relative="1" as="geometry">
