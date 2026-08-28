@@ -1,32 +1,32 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="XQWy32PSvNX_0K5BZbcy">
-    <mxGraphModel dx="2231" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eW2h3mzELymO815vZZ42-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=18;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="1638" x="42" y="683" as="geometry" />
+          <mxGeometry height="253" width="1638" x="42" y="680" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=13;" value="&lt;b&gt;Cuidados Preventivos MS&lt;/b&gt;" vertex="1">
-          <mxGeometry height="55" width="180" x="380" y="728" as="geometry" />
+          <mxGeometry height="55" width="180" x="381" y="748" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="&lt;b&gt;Citas Veterinarias MS&lt;/b&gt;" vertex="1">
-          <mxGeometry height="55" width="180" x="380" y="813" as="geometry" />
+          <mxGeometry height="55" width="180" x="381" y="833" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" value="&lt;b&gt;RabbitMQ&lt;/b&gt;&lt;br/&gt;Message Broker" vertex="1">
-          <mxGeometry height="90" width="180" x="610" y="753" as="geometry" />
+          <mxGeometry height="90" width="180" x="611" y="773" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" value="&lt;b&gt;Recordatorios MS&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="845" y="768" as="geometry" />
+          <mxGeometry height="60" width="180" x="846" y="788" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" value="&lt;b&gt;RabbitMQ&lt;/b&gt;&lt;br/&gt;Message Broker" vertex="1">
-          <mxGeometry height="90" width="180" x="1075" y="753" as="geometry" />
+          <mxGeometry height="90" width="180" x="1076" y="773" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=13;" value="&lt;b&gt;Notificaciones MS&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="165" x="1295" y="768" as="geometry" />
+          <mxGeometry height="60" width="165" x="1296" y="788" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="&lt;b&gt;Firebase Cloud Messaging&lt;/b&gt;&lt;br/&gt;Entrega al dispositivo" vertex="1">
-          <mxGeometry height="90" width="105" x="1490" y="753" as="geometry" />
+          <mxGeometry height="90" width="105" x="1491" y="773" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-22" edge="1" parent="1" source="eW2h3mzELymO815vZZ42-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 4;strokeColor=#d79b00;" target="eW2h3mzELymO815vZZ42-17" value="VACUNA_PROGRAMADA / DESPARASITACION_PROGRAMADA">
           <mxGeometry relative="1" x="-0.4595" y="20" as="geometry">
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;fontSize=11;" value="&lt;b&gt;Eventos publicados&lt;/b&gt;&lt;br/&gt;• VACUNA_PROGRAMADA&lt;br/&gt;• DESPARASITACION_PROGRAMADA&lt;br/&gt;• CITA_CREADA&lt;br/&gt;• CITA_MODIFICADA&lt;br/&gt;• CITA_CANCELADA&lt;br/&gt;• RECORDATORIO_LISTO" vertex="1">
-          <mxGeometry height="145" width="240" x="90" y="726" as="geometry" />
+          <mxGeometry height="145" width="240" x="91" y="746" as="geometry" />
         </mxCell>
         <mxCell id="eW2h3mzELymO815vZZ42-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;fontSize=11;" value="&lt;b&gt;LEYENDA&lt;/b&gt;&lt;br/&gt;Línea continua: REST / HTTPS&lt;br/&gt;Línea segmentada naranja: Evento asíncrono (RabbitMQ)&lt;br/&gt;Línea segmentada morada: Componente transversal / infraestructura&lt;br/&gt;Cilindro: Base de datos o almacenamiento" vertex="1">
           <mxGeometry height="80" width="1550" x="80" y="940" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry height="40" width="130" x="135" y="116" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="2. BACKEND / MICROSERVICIOS" vertex="1">
-          <mxGeometry height="40" width="300" x="652" y="111" as="geometry" />
+          <mxGeometry height="40" width="300" x="424" y="116" as="geometry" />
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-38" edge="1" parent="1" source="-A_JFIx98xw-omESkj8r-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-A_JFIx98xw-omESkj8r-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -254,6 +254,9 @@
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="3. INFRAESTRUCTURA /&amp;nbsp;&lt;div&gt;INTEGRACIONES&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="1400" y="91" as="geometry" />
+        </mxCell>
+        <mxCell id="-A_JFIx98xw-omESkj8r-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontStyle=1" value="4. PROCESAMIENTO ASÍNCRONO" vertex="1">
+          <mxGeometry height="40" width="310" x="71" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
