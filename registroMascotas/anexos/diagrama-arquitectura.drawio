@@ -64,8 +64,10 @@
         <mxCell id="-A_JFIx98xw-omESkj8r-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=default;fontSize=13;align=center;" value="&lt;b&gt;App Móvil / Web&lt;/b&gt;&lt;br&gt;Dueño de mascota" vertex="1">
           <mxGeometry height="80" width="170" x="77" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="-A_JFIx98xw-omESkj8r-68" edge="1" parent="1" source="-A_JFIx98xw-omESkj8r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-A_JFIx98xw-omESkj8r-67" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-A_JFIx98xw-omESkj8r-68" edge="1" parent="1" source="-A_JFIx98xw-omESkj8r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="421" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-A_JFIx98xw-omESkj8r-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=default;fontSize=11;" value="&lt;b&gt;HTTPS&amp;nbsp;&lt;/b&gt;&lt;br&gt;Cifrado en tránsito" vertex="1">
           <mxGeometry height="60" width="170" x="77" y="281" as="geometry" />
@@ -236,9 +238,6 @@
             <mxPoint x="990" y="340" as="sourcePoint" />
             <mxPoint x="1040" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-A_JFIx98xw-omESkj8r-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=default;fontSize=11;" value="&lt;b&gt;HTTPS&amp;nbsp;&lt;/b&gt;&lt;br&gt;Cifrado en tránsito" vertex="1">
-          <mxGeometry height="60" width="170" x="77" y="421" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
